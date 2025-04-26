@@ -12,9 +12,8 @@ This plugin allows users to **compare Traditional Construction methods** with **
 
 ## Features
 
-- Compare construction time (months)
-- Compare estimated project costs
-- Compare construction efficiency (percentage)
+- Using a scoring engine the plugin scores every factor based on the inputs (either from the revit project or the user inputs)
+- then evaluates it and gets to decide to use tradiational methids or offsite manifacturing 
 - Display results in a pop-up dialog inside Revit
 
 ---
@@ -35,7 +34,7 @@ This plugin allows users to **compare Traditional Construction methods** with **
 - Build the project to generate the `.dll` file.
 
 
-### 3. Launch Revit
+### 2. Launch Revit
 - Open Revit.
 - Navigate to the **Add-Ins** tab.
 - Run the **Construction Comparison** command.
@@ -51,4 +50,5 @@ This plugin allows users to **compare Traditional Construction methods** with **
 - Mohammed Abou Bakr
 - [GitHub](https://github.com/Mohammed0001/)
 - [LinkedIn](https://www.linkedin.com/in/mohammed-abou-bakr/)
+- In collaboration with Civil Engineer Yousr Ahmed [LinkedIn](https://www.linkedin.com/in/yousr-ahmed-747028218/)
 
