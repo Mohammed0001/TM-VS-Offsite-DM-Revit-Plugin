@@ -1,6 +1,6 @@
 # Revit Plugin: Construction Methods Comparison
 
-This plugin allows users to **compare Traditional Construction methods** with **Off-Site Construction methods** directly inside **Autodesk Revit**. The comparison focuses on three main aspects:
+This plugin allows users to **compare Traditional Construction methods** with **Off-Site Construction methods** directly inside **Autodesk Revit**. The comparison focuses on these main aspects:
 - **Time**
 - **Cost**
 - **Sit Constraints**
