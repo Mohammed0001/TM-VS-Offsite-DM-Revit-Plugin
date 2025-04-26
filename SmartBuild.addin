@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+ <AddIn Type="Command">
+       <Name>SmartBuild</Name>
+       <FullClassName>SmartBuildPlugin.Command</FullClassName>
+       <Text>SmartBuild</Text>
+       <Description>Decision Maker for Off-Site ManifFacturing Or Traditional Methods</Description>
+       <VisibilityMode>AlwaysVisible</VisibilityMode>
+       <Assembly>C:\ProgramData\Autodesk\Revit\Addins\2026\SmartBuildPlugin.dll</Assembly>
+       <AddInId>2f2fc95a-3ca3-41a8-b28d-493f7d20b4fb</AddInId>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+ </AddIn>
+</RevitAddIns>

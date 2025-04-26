@@ -1,0 +1,12 @@
+D:\OTHERS PROJECTS\UH\Yousr\SmartBuildPlugin\SmartBuildPlugin\bin\Debug\net8.0\SmartBuildPlugin.deps.json
+D:\OTHERS PROJECTS\UH\Yousr\SmartBuildPlugin\SmartBuildPlugin\bin\Debug\net8.0\SmartBuildPlugin.dll
+D:\OTHERS PROJECTS\UH\Yousr\SmartBuildPlugin\SmartBuildPlugin\bin\Debug\net8.0\SmartBuildPlugin.pdb
+D:\OTHERS PROJECTS\UH\Yousr\SmartBuildPlugin\SmartBuildPlugin\obj\Debug\net8.0\SmartBuildPlugin.csproj.AssemblyReference.cache
+D:\OTHERS PROJECTS\UH\Yousr\SmartBuildPlugin\SmartBuildPlugin\obj\Debug\net8.0\SmartBuildPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\OTHERS PROJECTS\UH\Yousr\SmartBuildPlugin\SmartBuildPlugin\obj\Debug\net8.0\SmartBuildPlugin.AssemblyInfoInputs.cache
+D:\OTHERS PROJECTS\UH\Yousr\SmartBuildPlugin\SmartBuildPlugin\obj\Debug\net8.0\SmartBuildPlugin.AssemblyInfo.cs
+D:\OTHERS PROJECTS\UH\Yousr\SmartBuildPlugin\SmartBuildPlugin\obj\Debug\net8.0\SmartBuildPlugin.csproj.CoreCompileInputs.cache
+D:\OTHERS PROJECTS\UH\Yousr\SmartBuildPlugin\SmartBuildPlugin\obj\Debug\net8.0\SmartBuildPlugin.dll
+D:\OTHERS PROJECTS\UH\Yousr\SmartBuildPlugin\SmartBuildPlugin\obj\Debug\net8.0\refint\SmartBuildPlugin.dll
+D:\OTHERS PROJECTS\UH\Yousr\SmartBuildPlugin\SmartBuildPlugin\obj\Debug\net8.0\SmartBuildPlugin.pdb
+D:\OTHERS PROJECTS\UH\Yousr\SmartBuildPlugin\SmartBuildPlugin\obj\Debug\net8.0\ref\SmartBuildPlugin.dll

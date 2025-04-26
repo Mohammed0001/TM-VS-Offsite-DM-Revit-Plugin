@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OTHERS PROJECTS\\UH\\Yousr\\SmartBuildPlugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E41B00F9-1605-4B7A-B16F-928C1748178C}|SmartBuildPlugin\\SmartBuildPlugin.csproj|d:\\others projects\\uh\\yousr\\smartbuildplugin\\smartbuildplugin\\scoringengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41B00F9-1605-4B7A-B16F-928C1748178C}|SmartBuildPlugin\\SmartBuildPlugin.csproj|solutionrelative:smartbuildplugin\\scoringengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41B00F9-1605-4B7A-B16F-928C1748178C}|SmartBuildPlugin\\SmartBuildPlugin.csproj|d:\\others projects\\uh\\yousr\\smartbuildplugin\\smartbuildplugin\\modelanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41B00F9-1605-4B7A-B16F-928C1748178C}|SmartBuildPlugin\\SmartBuildPlugin.csproj|solutionrelative:smartbuildplugin\\modelanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41B00F9-1605-4B7A-B16F-928C1748178C}|SmartBuildPlugin\\SmartBuildPlugin.csproj|d:\\others projects\\uh\\yousr\\smartbuildplugin\\smartbuildplugin\\decisionmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41B00F9-1605-4B7A-B16F-928C1748178C}|SmartBuildPlugin\\SmartBuildPlugin.csproj|solutionrelative:smartbuildplugin\\decisionmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41B00F9-1605-4B7A-B16F-928C1748178C}|SmartBuildPlugin\\SmartBuildPlugin.csproj|d:\\others projects\\uh\\yousr\\smartbuildplugin\\smartbuildplugin\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41B00F9-1605-4B7A-B16F-928C1748178C}|SmartBuildPlugin\\SmartBuildPlugin.csproj|solutionrelative:smartbuildplugin\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41B00F9-1605-4B7A-B16F-928C1748178C}|SmartBuildPlugin\\SmartBuildPlugin.csproj|d:\\others projects\\uh\\yousr\\smartbuildplugin\\smartbuildplugin\\smartbuildplugin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E41B00F9-1605-4B7A-B16F-928C1748178C}|SmartBuildPlugin\\SmartBuildPlugin.csproj|solutionrelative:smartbuildplugin\\smartbuildplugin.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmartBuildPlugin",
+              "DocumentMoniker": "D:\\OTHERS PROJECTS\\UH\\Yousr\\SmartBuildPlugin\\SmartBuildPlugin\\SmartBuildPlugin.csproj",
+              "RelativeDocumentMoniker": "SmartBuildPlugin\\SmartBuildPlugin.csproj",
+              "ToolTip": "D:\\OTHERS PROJECTS\\UH\\Yousr\\SmartBuildPlugin\\SmartBuildPlugin\\SmartBuildPlugin.csproj",
+              "RelativeToolTip": "SmartBuildPlugin\\SmartBuildPlugin.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-16T19:36:06.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DecisionMaker.cs",
+              "DocumentMoniker": "D:\\OTHERS PROJECTS\\UH\\Yousr\\SmartBuildPlugin\\SmartBuildPlugin\\DecisionMaker.cs",
+              "RelativeDocumentMoniker": "SmartBuildPlugin\\DecisionMaker.cs",
+              "ToolTip": "D:\\OTHERS PROJECTS\\UH\\Yousr\\SmartBuildPlugin\\SmartBuildPlugin\\DecisionMaker.cs",
+              "RelativeToolTip": "SmartBuildPlugin\\DecisionMaker.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:34:49.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelAnalyzer.cs",
+              "DocumentMoniker": "D:\\OTHERS PROJECTS\\UH\\Yousr\\SmartBuildPlugin\\SmartBuildPlugin\\ModelAnalyzer.cs",
+              "RelativeDocumentMoniker": "SmartBuildPlugin\\ModelAnalyzer.cs",
+              "ToolTip": "D:\\OTHERS PROJECTS\\UH\\Yousr\\SmartBuildPlugin\\SmartBuildPlugin\\ModelAnalyzer.cs",
+              "RelativeToolTip": "SmartBuildPlugin\\ModelAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:34:27.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoringEngine.cs",
+              "DocumentMoniker": "D:\\OTHERS PROJECTS\\UH\\Yousr\\SmartBuildPlugin\\SmartBuildPlugin\\ScoringEngine.cs",
+              "RelativeDocumentMoniker": "SmartBuildPlugin\\ScoringEngine.cs",
+              "ToolTip": "D:\\OTHERS PROJECTS\\UH\\Yousr\\SmartBuildPlugin\\SmartBuildPlugin\\ScoringEngine.cs",
+              "RelativeToolTip": "SmartBuildPlugin\\ScoringEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:33:21.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Command.cs",
+              "DocumentMoniker": "D:\\OTHERS PROJECTS\\UH\\Yousr\\SmartBuildPlugin\\SmartBuildPlugin\\Command.cs",
+              "RelativeDocumentMoniker": "SmartBuildPlugin\\Command.cs",
+              "ToolTip": "D:\\OTHERS PROJECTS\\UH\\Yousr\\SmartBuildPlugin\\SmartBuildPlugin\\Command.cs",
+              "RelativeToolTip": "SmartBuildPlugin\\Command.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T19:30:25.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
